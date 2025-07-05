@@ -1,0 +1,193 @@
+name,role,skin_type,power_level,weight,height,age,eye_color,gender,hair_color,speed,universe,body_type,job,battle_iq,species,ranking,intelligence,abilities,training_time,special_attack,secret_code,win_prob
+Neon Netrunner,Hero,Transparent,1437.0,119.0,260.0,94.0,Yellow,1.0,Brown,1151.0,Marvel,Athletic,Hero,927.0,Alien,3003.0,875.0,Time Manipulation,767.0,Fireburst Cannon,10111.0,0.32
+Kakashi,H3ro,Transparent,8843.0,581.0,788.0,118.0,Yellow,2.0,Brown,870.0,Marvel,Regular,Scientist,909.0,Giant,4829.0,858.0,Super Strength,3895.0,Water Vortex,10111.0,0.63
+Ragman,Hero,Draconish,3098.0,104.0,146.0,64.0,White,0.0,Black,1571.0,Marvel,Giant,God,950.0,Kryptonian,1482.0,897.0,Time Manipulation,1790.0,Water Fury,10101.0,0.7
+Son Gohan,Hero,Scaly,5662.0,91.0,151.0,35.0,Blue,0.0,Brown,2872.0,Marvel,Muscular,Leader,895.0,Saiyan,4213.0,845.0,Mind Reading,4492.0,Water Fury,10001.0,0.6
+Cloak,Hero,Stone,7601.0,598.0,747.0,85.0,Red,1.0,Gold,1184.0,Marvel Comics,Regular,Scientist,1303.0,Giant,1013.0,1185.0,Super Strength,5317.0,Fireburst Cannon,10010.0,0.5
+Steel,Hero,Scaly,1153.0,124.0,151.0,32.0,Blue,1.0,Purple,3157.0,Marvel,Giant,Mage,1217.0,Alien,3817.0,1107.0,Super Speed,810.0,Water Vortex,10001.0,0.62
+Valiant Mage,H3ro,Luminescent,13158.0,65.0,185.0,74.0,Glowing,1.0,Gold,1455.0,Marvel Comics,Fat,Arcanist,1257.0,Human,2362.0,1143.0,Super Strength,8788.0,Eternal Firewave,11111.0,0.55
+Shang-Chi,Hero,Normal,2995.0,65.0,167.0,40.0,Brown,2.0,Gold,2510.0,Marvel Comics,Athletic,God,1268.0,Human,3153.0,1153.0,Teleportation,2013.0,Electric Surge,10000.0,0.56
+Radiant Mage,Hero,Wooden,10973.0,543.0,783.0,72.0,Pink,0.0,Gold,1446.0,Marvel Comics,Giant,Captain,1265.0,Giant,105.0,1150.0,Teleportation,6986.0,Eternal Firewave,11010.0,0.64
+The Question,Hero,Metallic,10820.0,100.0,190.0,49.0,Green,2.0,Bald,2121.0,Marvel,Giant,Hero,560.0,Alien,3248.0,560.0,Mind Reading,6870.0,Eternal Firewave,10011.0,0.54
+Havok,Hero,Luminescent,10336.0,50.0,151.0,23.0,Glowing,2.0,Fire-like,4354.0,Marvel,Regular,Cult Leader,1320.0,Undead,3589.0,1200.0,Time Manipulation,8159.0,Grass blade,11111.0,0.73
+Inuyasha,HerO,Hairy,16146.0,620.0,796.0,138.0,Blood,1.0,Black,841.0,Marvel Comics,Regular,Captain,951.0,Giant,1175.0,898.0,Teleportation,8113.0,Water Gun,10010.0,0.81
+Shinra Kusakabe,H3ro,Transparent,17344.0,700.0,729.0,68.0,Yellow,0.0,Green,1496.0,Marvel,Regular,Assassin,592.0,Giant,2980.0,592.0,Flying,8558.0,Grass blade,10111.0,0.57
+Vash the Stampede,Hero,Normal,6269.0,58.0,179.0,70.0,Brown,1.0,Black,1568.0,Marvel Comics,Athletic,Scientist,945.0,Human,3314.0,892.0,Super Strength,3737.0,Water Fury,10000.0,0.53
+Radiant Knight,Hero,Scaly,8450.0,97.0,213.0,32.0,Blue,2.0,Pink,3126.0,Marvel,Muscular,Demon Lord,1023.0,Alien,1001.0,948.0,Flying,4753.0,Electric Nova,10001.0,0.62
+Brave Templar,Hero,Hairy,3716.0,95.0,196.0,120.0,Blood,1.0,Gold,847.0,Marvel,Athletic,Saviors,1262.0,Saiyan,2054.0,1148.0,Super Strength,1946.0,Fire Fist,10010.0,10.4
+Digital Cyborg,Hero,Draconish,10215.0,100.0,214.0,43.0,White,2.0,Silver,2362.0,Marvel,Giant,Saviors,981.0,Kryptonian,4009.0,909.0,Super Speed,5544.0,Eternal Firewave,10101.0,0.72
+Reigen Arataka,H3ro,Hairy,6193.0,53.0,177.0,103.0,Blood,0.0,Purple,994.0,Marvel,Fat,Hero,1178.0,Undead,559.0,1071.0,Flying,4869.0,Grass blade,10010.0,0.57
+Obsidian,HerO,Luminescent,15701.0,101.0,154.0,67.0,Glowing,2.0,Fire-like,1503.0,Marvel Comics,Muscular,Hero,1320.0,Alien,3135.0,1200.0,Flying,9314.0,Electric Nova,11111.0,0.75
+Sakura,HerO,Draconish,6729.0,62.0,161.0,60.0,White,2.0,Pink,1814.0,DC,Athletic,Scientist,1030.0,Saiyan,1252.0,954.0,Super Speed,5682.0,Grass Tempest,10101.0,0.7
+Valiant Knight,HerO,Steel,7660.0,645.0,856.0,124.0,Black,0.0,Fire-like,935.0,DC Comics,Giant,Demon Lord,1305.0,Giant,627.0,1187.0,Flying,4550.0,Electric Storm,11000.0,0.56
+Iron Fist,HerO,Hairy,14466.0,52.0,161.0,50.0,Blood,0.0,Blonde,2074.0,DC,Slim,Captain,97.0,Undead,1655.0,106.0,Flying,9609.0,Water Gun,10010.0,0.8
+Cybernetic Crypto-Warrior,H3ro,Wooden,6983.0,120.0,135.0,35.0,Pink,1.0,Fire-like,2904.0,DC,Athletic,Cult Leader,1320.0,Alien,4079.0,1200.0,Mind Reading,3766.0,Electric Surge,11010.0,0.83
+Silver Surfer,Hero,Hairy,1493.0,547.0,842.0,55.0,Blood,0.0,Silver,1874.0,DC,Regular,Scientist,951.0,Giant,145.0,898.0,Super Strength,1209.0,Water Fury,10010.0,0.74
+Katma Tui,HerO,Scaly,7612.0,100.0,197.0,22.0,Blue,1.0,Fire-like,4547.0,DC Comics,Athletic,Thief,1309.0,Saiyan,3526.0,1190.0,Flying,4898.0,Fire Fist,10001.0,0.5
+America Chavez,H3ro,Scaly,10571.0,66.0,175.0,32.0,Blue,1.0,Brown,3141.0,DC,Slim,Hero,886.0,Undead,295.0,836.0,Flying,4710.0,Water Vortex,10001.0,0.69
+Rogue,Hero,Steel,9395.0,92.0,150.0,137.0,Black,1.0,White,1011.0,DC,Giant,Leader,704.0,Alien,4561.0,691.0,Mind Reading,4228.0,Electric Nova,11000.0,0.57
+Augmented Crypto-Warrior,H3ro,Metallic,7806.0,80.0,194.0,72.0,Green,2.0,Silver,1420.0,DC Comics,Athletic,Saviors,943.0,Kryptonian,1102.0,890.0,Super Strength,4224.0,Grass Surge,10011.0,0.52
+John Constantine,H3ro,Draconish,9405.0,101.0,177.0,65.0,White,0.0,Green,1661.0,DC,Athletic,Arcanist,580.0,Kryptonian,3188.0,580.0,Super Speed,5694.0,Water Fury,10101.0,0.73
+Magik,H3ro,Hairy,8770.0,91.0,140.0,43.0,Blood,2.0,Purple,2385.0,DC,Normal,Cult Leader,1211.0,Human,4661.0,1101.0,Flying,5643.0,Electric Storm,10010.0,0.85
+Sanji,Hero,Steel,12834.0,86.0,191.0,21.0,Black,0.0,Purple,4809.0,DC,Athletic,Saviors,1193.0,Saiyan,4019.0,1085.0,Mind Reading,8524.0,Electric Surge,11000.0,0.75
+Katma Tui,HerO,Scaly,7612.0,100.0,197.0,22.0,Blue,1.0,Fire-like,4547.0,DC Comics,Athletic,Thief,1309.0,Saiyan,3526.0,1190.0,Flying,4898.0,Fire Fist,10001.0,0.5
+Brave Spellblade,H3ro,Draconish,11617.0,96.0,177.0,123.0,White,2.0,Gold,840.0,DC,Giant,Arcanist,1246.0,Saiyan,2331.0,1133.0,Super Strength,8961.0,Water Vortex,10101.0,0.8
+Digital Shadowcaster,Hero,Metallic,2196.0,74.0,161.0,62.0,Green,1.0,Silver,1661.0,DC Comics,Regular,Brewer,975.0,Human,221.0,903.0,Time Manipulation,1460.0,Electric Nova,10011.0,0.48
+Divine Spellblade,H3ro,Steel,2348.0,56.0,143.0,94.0,Black,0.0,White,1185.0,DC,Giant,Brewer,702.0,Alien,3508.0,689.0,Teleportation,1428.0,Water Fury,11000.0,0.56
+Mera,HerO,Normal,12853.0,109.0,259.0,64.0,Brown,0.0,Bald,1592.0,DC,Giant,Saviors,513.0,Alien,2928.0,513.0,Super Speed,7529.0,Electric Surge,10000.0,0.45
+Makunouchi Ippo,H3ro,Draconish,18873.0,96.0,163.0,98.0,White,0.0,Silver,1049.0,DC,Athletic,Saviors,991.0,Saiyan,2001.0,918.0,Flying,8547.0,Electric Nova,10101.0,0.67
+Lina Inverse,HerO,Metallic,1693.0,97.0,193.0,23.0,Green,0.0,White,4364.0,DC,Muscular,Drunken,740.0,Kryptonian,1923.0,712.0,Super Speed,1040.0,Fireburst Cannon,10011.0,0.38
+Hyper Netrunner,Hero,Hairy,3884.0,94.0,180.0,123.0,Blood,2.0,Blonde,831.0,DC,Muscular,Saviors,90.0,Saiyan,4855.0,100.0,Time Manipulation,2553.0,Water Vortex,10010.0,0.65
+Quantum Shadowcaster,HerO,Luminescent,7821.0,462.0,867.0,102.0,Glowing,2.0,Gold,1102.0,DC Comics,Giant,Cult Leader,1243.0,Giant,3451.0,1130.0,Time Manipulation,5057.0,Grass Surge,11111.0,0.55
+Encrypted Cyborg,Hero,Luminescent,15052.0,70.0,170.0,87.0,Glowing,2.0,Fire-like,1152.0,Anime,Fat,Scientist,1305.0,Human,3848.0,1187.0,Time Manipulation,6566.0,Water Vortex,11111.0,0.78
+Gallant Crusader,Hero,Normal,7233.0,123.0,186.0,45.0,Brown,0.0,Black,2298.0,Anime,Muscular,Saviors,984.0,Kryptonian,4691.0,912.0,Teleportation,4071.0,Electric Nova,10000.0,0.49
+Ethereal Cleric,H3ro,Draconish,1408.0,50.0,173.0,71.0,White,2.0,Silver,1471.0,Anime,Slim,Demon Lord,952.0,Undead,1687.0,899.0,Flying,870.0,Grass Surge,10101.0,0.61
+Pixelated Netrunner,Hero,Metallic,1233.0,544.0,810.0,94.0,Green,1.0,Fire-like,1071.0,Anime,Giant,Warrior,1320.0,Giant,4699.0,1200.0,Teleportation,818.0,Electric Storm,10011.0,0.42
+Prodigy,Hero,Hairy,11572.0,75.0,174.0,87.0,Blood,2.0,Blonde,1161.0,Anime,Fat,Mage,112.0,Human,2760.0,122.0,Super Strength,9506.0,Electric Surge,10010.0,13.2
+Minato Uzumaki,Hero,Metallic,13712.0,192.0,244.0,118.0,Green,0.0,Brown,848.0,Anime,Muscular,Warrior,922.0,Alien,2240.0,870.0,Super Strength,6475.0,Grass Surge,10011.0,0.44
+Holographic Shadowcaster,H3ro,Transparent,9430.0,63.0,153.0,95.0,Yellow,2.0,Brown,1089.0,Anime,Fat,Leader,909.0,Human,3894.0,858.0,Teleportation,4792.0,Grass blade,10111.0,0.51
+The Flash,H3ro,Draconish,16534.0,90.0,163.0,48.0,White,0.0,Pink,2088.0,Anime,Giant,Hero,1018.0,Saiyan,1640.0,943.0,Flying,6159.0,Fireburst Cannon,10101.0,0.7
+Son Goku,H3ro,Steel,11088.0,66.0,195.0,62.0,Black,0.0,Brown,1660.0,Anime,Giant,Demon Lord,912.0,Kryptonian,4486.0,861.0,Teleportation,8742.0,Water Vortex,11000.0,0.75
+Simon,Hero,Metallic,1312.0,50.0,160.0,125.0,Green,0.0,Brown,903.0,Anime,Regular,Arcanist,915.0,Undead,4229.0,864.0,Time Manipulation,727.0,Water Vortex,10011.0,0.44
+Ryoma Echizen,Hero,Normal,11893.0,130.0,176.0,100.0,Brown,2.0,Pink,1078.0,Anime,Normal,Cult Leader,1033.0,Alien,2195.0,957.0,Super Strength,7135.0,Grass Tempest,10000.0,0.45
+Shikamaru Nara,HerO,Steel,16602.0,108.0,283.0,85.0,Black,1.0,Fire-like,1183.0,Anime,Normal,Mage,1320.0,Alien,1233.0,1200.0,Teleportation,7478.0,Water Fury,11000.0,0.82
+The Flash,H3ro,Draconish,16534.0,90.0,163.0,48.0,White,0.0,Pink,2088.0,Anime,Giant,Hero,1018.0,Saiyan,1640.0,943.0,Flying,6159.0,Fireburst Cannon,10101.0,0.7
+Colossus,Hero,Metallic,13804.0,103.0,189.0,108.0,Green,1.0,Blonde,948.0,Anime,Giant,Thief,84.0,Kryptonian,4926.0,94.0,Flying,7860.0,Eternal Firewave,10011.0,0.34
+Ryoma Echizen,Hero,Normal,11893.0,130.0,176.0,100.0,Brown,2.0,Pink,1078.0,Anime,Normal,Cult Leader,1033.0,Alien,2195.0,957.0,Super Strength,7135.0,Grass Tempest,10000.0,0.45
+Captain Atom,Hero,Luminescent,13718.0,84.0,160.0,118.0,Glowing,0.0,Brown,919.0,Anime,Muscular,Thief,913.0,Saiyan,1573.0,862.0,Mind Reading,9965.0,Grass Surge,11111.0,0.5
+Divine Templar,Hero,Metallic,10430.0,81.0,187.0,132.0,Green,2.0,Blonde,833.0,Anime,Muscular,God,69.0,Saiyan,227.0,77.0,Time Manipulation,6944.0,Water Vortex,10011.0,0.54
+All Might,Hero,Transparent,9402.0,669.0,867.0,110.0,Yellow,2.0,Gold,920.0,Fantasy Realm,Giant,Saviors,1260.0,Giant,2544.0,1146.0,Super Speed,5649.0,Grass Surge,10111.0,0.54
+Kuwabara,Hero,Normal,2017.0,98.0,217.0,109.0,Brown,1.0,Pink,918.0,Fantasy Realm,Muscular,Thief,1069.0,Saiyan,3803.0,990.0,Teleportation,1096.0,Fireburst Cannon,10000.0,0.25
+Hyper Crypto-Warrior,Hero,Steel,15275.0,74.0,155.0,36.0,Black,2.0,Bald,2834.0,Fantasy Realm,Muscular,Captain,550.0,Saiyan,3977.0,550.0,Flying,9120.0,Fire Fist,11000.0,0.7
+Sunfire,Hero,Wooden,6035.0,66.0,270.0,60.0,Pink,0.0,Silver,1668.0,Fantasy Realm,Muscular,God,943.0,Alien,4303.0,890.0,Teleportation,4864.0,Water Vortex,11010.0,0.79
+Mystic Sentinel,Hero,Metallic,15788.0,128.0,250.0,131.0,Green,2.0,Fire-like,882.0,Fantasy Realm,Giant,Thief,1318.0,Alien,2063.0,1199.0,Time Manipulation,9316.0,Fireburst Cannon,10011.0,0.51
+Noble Paladin,H3ro,Steel,3073.0,57.0,196.0,23.0,Black,0.0,White,4366.0,Fantasy Realm,Regular,Leader,689.0,Human,876.0,676.0,Super Speed,2665.0,Water Vortex,11000.0,14.2
+The Creeper,Hero,Normal,8726.0,99.0,207.0,42.0,Brown,1.0,Gold,2383.0,Fantasy Realm,Athletic,Arcanist,1273.0,Kryptonian,3601.0,1158.0,Super Strength,5822.0,Grass Tempest,10000.0,0.55
+X-23,Hero,Normal,9106.0,105.0,160.0,120.0,Brown,1.0,Fire-like,846.0,Fantasy Realm,Muscular,God,1320.0,Alien,926.0,1200.0,Super Speed,6370.0,Fire Fist,10000.0,0.34
+Black Widow,Hero,Transparent,11055.0,75.0,169.0,122.0,Yellow,1.0,Bald,892.0,Fantasy Realm,Regular,Demon Lord,549.0,Undead,4471.0,549.0,Mind Reading,5959.0,Grass blade,10111.0,0.45
+Stargirl,Hero,Luminescent,6583.0,79.0,162.0,130.0,Glowing,2.0,Fire-like,803.0,Cyberverse,Normal,Hero,1310.0,Human,1313.0,1191.0,Mind Reading,3981.0,Eternal Firewave,11111.0,0.47
+Alphonse Elric,HerO,Hairy,16426.0,86.0,171.0,70.0,Blood,1.0,Purple,1457.0,Cyberverse,Athletic,God,1197.0,Saiyan,2245.0,1089.0,Super Strength,9918.0,Grass blade,10010.0,0.77
+Quantum Firewall,H3ro,Luminescent,13289.0,118.0,183.0,55.0,Glowing,1.0,Pink,1897.0,Cyberverse,Giant,Cult Leader,1032.0,Saiyan,657.0,956.0,Super Speed,9126.0,Water Fury,11111.0,0.79
+Radiant Sorcerer,Hero,Draconish,2117.0,87.0,177.0,100.0,White,0.0,Silver,1014.0,Cyberverse,Athletic,Leader,1004.0,Kryptonian,2571.0,930.0,Time Manipulation,1541.0,Grass Surge,10101.0,0.48
+Gallant Templar,Hero,Metallic,4134.0,95.0,186.0,34.0,Green,2.0,Black,3000.0,Cyberverse,Athletic,Hero,951.0,Saiyan,4718.0,898.0,Flying,2765.0,Electric Nova,10011.0,0.6
+Quantum Firewall,H3ro,Luminescent,13289.0,118.0,183.0,55.0,Glowing,1.0,Pink,1897.0,Cyberverse,Giant,Cult Leader,1032.0,Saiyan,657.0,956.0,Super Speed,9126.0,Water Fury,11111.0,0.79
+Kite,HerO,Normal,20620.0,95.0,162.0,62.0,Brown,0.0,Green,1682.0,Cyberverse,Fat,Warrior,626.0,Human,4867.0,614.0,Flying,8598.0,Water Fury,10000.0,0.64
+Encrypted Crypto-Warrior,Hero,Scaly,8929.0,78.0,177.0,33.0,Blue,2.0,Blonde,3056.0,Cyberverse,Fat,Brewer,78.0,Human,1094.0,87.0,Super Speed,5275.0,Fire Fist,10001.0,0.44
+Noble Mage,Hero,Steel,5600.0,121.0,208.0,78.0,Black,1.0,Gold,1290.0,Cyberverse,Giant,Thief,1279.0,Kryptonian,2136.0,1163.0,Super Strength,4749.0,Fire Fist,11000.0,0.54
+Divine Paladin,HerO,Transparent,7145.0,136.0,167.0,102.0,Yellow,2.0,Green,995.0,Cyberverse,Normal,Thief,597.0,Alien,2684.0,597.0,Super Speed,5072.0,Fire Fist,10111.0,0.39
+Arcane Mage,Hero,Stone,3927.0,131.0,183.0,91.0,Red,1.0,Fire-like,1139.0,Cyberverse,Athletic,Hero,1320.0,Kryptonian,729.0,1200.0,Flying,2321.0,Water Gun,10010.0,0.63
+Kite,HerO,Normal,20620.0,95.0,162.0,62.0,Brown,0.0,Green,1682.0,Cyberverse,Fat,Warrior,626.0,Human,4867.0,614.0,Flying,8598.0,Water Fury,10000.0,0.64
+Ethereal Mage,Hero,Transparent,15326.0,580.0,817.0,72.0,Yellow,0.0,Brown,1476.0,Cyberverse,Giant,Leader,893.0,Giant,730.0,843.0,Flying,7373.0,Eternal Firewave,10111.0,0.47
+Deadpool,H3ro,Wooden,5458.0,615.0,835.0,97.0,Pink,1.0,Fire-like,1052.0,Cyberverse,Regular,Drunken,1320.0,Giant,4308.0,1200.0,Mind Reading,3308.0,Grass blade,11010.0,0.64
+Surge,Hero,Draconish,10386.0,69.0,191.0,88.0,White,0.0,Bald,1156.0,Cyberverse,Athletic,Hero,572.0,Human,3565.0,572.0,Super Speed,6452.0,Water Fury,10101.0,0.68
+Azrael,Hero,Scaly,7924.0,86.0,124.0,81.0,Blue,1.0,Brown,1338.0,Cyberverse,Normal,Brewer,898.0,Alien,1665.0,848.0,Mind Reading,5424.0,Water Fury,10001.0,0.54
+3-D Man,Hero,Draconish,17112.0,59.0,136.0,66.0,White,2.0,Gold,1517.0,Cyberverse,Regular,Scientist,1278.0,Undead,3130.0,1162.0,Flying,9497.0,Grass Surge,10101.0,0.82
+Naruto Uzumaki,H3ro,Draconish,13439.0,582.0,801.0,103.0,White,1.0,Blonde,1009.0,Cyberverse,Regular,God,77.0,Giant,3534.0,86.0,Super Strength,7460.0,Electric Nova,10101.0,0.58
+Spider-Woman,H3ro,Wooden,4401.0,63.0,119.0,98.0,Pink,2.0,Fire-like,1024.0,Cyberverse,Fat,Drunken,1306.0,Undead,1693.0,1188.0,Flying,3078.0,Electric Surge,11010.0,0.7
+Guardian,HerO,Steel,5739.0,580.0,765.0,33.0,Black,1.0,Silver,3032.0,Cyberverse,Giant,Warrior,951.0,Giant,4916.0,898.0,Super Speed,2983.0,Grass Tempest,11000.0,0.67
+Greed,VillaIn,Steel,2112.0,131.0,166.0,36.0,Black,2.0,Brown,2828.0,Marvel,Muscular,Brewer,874.0,Saiyan,2145.0,825.0,Time Manipulation,1030.0,Grass Tempest,11000.0,14.2
+Deadpool,H3ro,Wooden,5458.0,615.0,835.0,97.0,Pink,1.0,Fire-like,1052.0,Cyberverse,Regular,Drunken,1320.0,Giant,4308.0,1200.0,Mind Reading,3308.0,Grass blade,11010.0,0.64
+Chameleon,Villain,Luminescent,16175.0,75.0,161.0,88.0,Glowing,1.0,Fire-like,1165.0,Marvel,Regular,Saviors,1320.0,Human,3029.0,1200.0,Teleportation,9810.0,Eternal Firewave,11111.0,0.6
+Decrypted Dataphage,Villain,Metallic,13089.0,111.0,225.0,108.0,Green,2.0,Green,953.0,Marvel Comics,Athletic,Cult Leader,629.0,Alien,1092.0,617.0,Super Speed,9110.0,Electric Nova,10011.0,0.56
+Kizaru,VIllain,Draconish,5625.0,84.0,190.0,39.0,White,2.0,Blonde,2597.0,Marvel Comics,Regular,Scientist,98.0,Human,599.0,107.0,Super Strength,2568.0,Electric Storm,10101.0,0.73
+Decrypted Null-Code,Villain,Transparent,12581.0,121.0,202.0,98.0,Yellow,2.0,Fire-like,1163.0,Marvel,Giant,Warrior,1310.0,Alien,4756.0,1191.0,Super Strength,5141.0,Electric Nova,10111.0,0.64
+Rogue Null-Code,VIllain,Wooden,9234.0,61.0,120.0,67.0,Pink,2.0,Green,1546.0,Marvel,Regular,Thief,592.0,Undead,2133.0,592.0,Super Speed,5988.0,Electric Storm,11010.0,0.81
+Shou Tucker,Villain,Steel,9103.0,76.0,154.0,44.0,Black,1.0,Fire-like,2279.0,Marvel Comics,Regular,Thief,1301.0,Human,3835.0,1183.0,Teleportation,6906.0,Grass Tempest,11000.0,0.77
+Hacked Glitch,Villain,Steel,9262.0,67.0,184.0,93.0,Black,2.0,Pink,1131.0,Marvel Comics,Normal,Demon Lord,1054.0,Human,2954.0,976.0,Mind Reading,10492000.0,Grass Tempest,11000.0,0.65
+Cell,VillaIn,Stone,17092.0,512.0,727.0,130.0,Red,0.0,Black,851.0,Marvel,Regular,Arcanist,976.0,Giant,2565.0,904.0,Teleportation,8701.0,Electric Storm,10010.0,0.63
+Shou Tucker,Villain,Steel,9103.0,76.0,154.0,44.0,Black,1.0,Fire-like,2279.0,Marvel Comics,Regular,Thief,1301.0,Human,3835.0,1183.0,Teleportation,6906.0,Grass Tempest,11000.0,0.77
+Gorgon,VillaIn,Steel,14577.0,647.0,842.0,132.0,Black,1.0,Blonde,852.0,Marvel Comics,Regular,Saviors,89.0,Giant,448.0,99.0,Flying,7490.0,Grass Surge,11000.0,0.57
+The Collector,VIllain,Transparent,3862.0,92.0,171.0,67.0,Yellow,2.0,Silver,1521.0,DC,Muscular,Captain,915.0,Saiyan,3750.0,864.0,Flying,2869.0,Electric Surge,10111.0,0.61
+Toyman,VillaIn,Hairy,2291.0,85.0,202.0,96.0,Blood,1.0,Black,1048.0,DC,Giant,Hero,954.0,Kryptonian,767.0,900.0,Super Speed,1918.0,Electric Nova,10010.0,0.62
+Cursed Warlock,VillaIn,Normal,5318.0,63.0,174.0,84.0,Brown,0.0,Purple,1319.0,DC,Slim,Hero,1210.0,Human,2328.0,1100.0,Teleportation,3232.0,Grass Surge,10000.0,0.39
+Super-Skrull,VillaIn,Steel,6244.0,50.0,202.0,139.0,Black,2.0,Fire-like,750.0,DC Comics,Fat,Mage,1320.0,Undead,1480.0,1200.0,Mind Reading,3758.0,Fireburst Cannon,11000.0,0.57
+Madara Uchiha,Villain,Steel,23533.0,86.0,177.0,92.0,Black,1.0,Pink,1199.0,DC,Athletic,Cult Leader,1026.0,Saiyan,2235.0,950.0,Teleportation,19178000.0,Grass Tempest,11000.0,0.75
+Rogue Neuro-Lancer,Villain,Steel,6710.0,78.0,152.0,58.0,Black,1.0,Green,1741.0,DC,Athletic,Drunken,617.0,Saiyan,1740.0,605.0,Time Manipulation,4060.0,Water Fury,11000.0,0.79
+Malevolent Plaguebringer,Villain,Transparent,9010.0,94.0,148.0,77.0,Yellow,1.0,Black,1385.0,DC,Muscular,Warrior,947.0,Saiyan,4081.0,894.0,Mind Reading,6382.0,Fire Fist,10111.0,0.49
+Rob Lucci,Villain,Hairy,12892.0,85.0,168.0,126.0,Blood,0.0,Blonde,817.0,DC Comics,Slim,Leader,79.0,Undead,2329.0,88.0,Time Manipulation,8424.0,Water Fury,10010.0,0.7
+Corrupt Dataphage,Villain,Steel,7939.0,82.0,172.0,126.0,Black,2.0,Gold,981.0,DC Comics,Normal,Saviors,1291.0,Human,665.0,1174.0,Super Speed,4259.0,Water Fury,11000.0,0.78
+Doctor Octopus,Villain,Draconish,5760.0,94.0,167.0,73.0,White,2.0,White,1395.0,DC Comics,Regular,Drunken,714.0,Undead,3771.0,700.0,Mind Reading,3622.0,Grass Surge,10101.0,0.67
+Neon-Dark Netherbyte,Villain,Draconish,8427.0,50.0,220.0,22.0,White,1.0,Purple,4564.0,DC,Athletic,Saviors,1204.0,Alien,48.0,1095.0,Time Manipulation,4213.0,Grass Surge,10101.0,0.79
+Taskmaster,Villain,Scaly,5377.0,95.0,186.0,111.0,Blue,1.0,Brown,960.0,DC Comics,Muscular,Warrior,890.0,Saiyan,1060.0,840.0,Time Manipulation,3306.0,Water Vortex,10001.0,0.53
+Ominous Doombringer,VIllain,Luminescent,4813.0,50.0,179.0,40.0,Glowing,1.0,Brown,2522.0,DC Comics,Regular,Saviors,903.0,Undead,1732.0,852.0,Teleportation,2902.0,Electric Nova,11111.0,0.66
+Savage Demonspawn,VillaIn,Transparent,4787.0,94.0,169.0,128.0,Yellow,1.0,White,848.0,DC Comics,Muscular,Leader,671.0,Alien,399.0,658.0,Mind Reading,3718.0,Grass blade,10111.0,0.44
+Virus Neuro-Lancer,VIllain,Stone,14592.0,59.0,176.0,54.0,Red,2.0,Fire-like,1866.0,DC Comics,Regular,Drunken,1320.0,Undead,580.0,1200.0,Teleportation,9952.0,Grass Tempest,10010.0,0.81
+Corrupt Dataphage,Villain,Steel,7939.0,82.0,172.0,126.0,Black,2.0,Gold,981.0,DC Comics,Normal,Saviors,1291.0,Human,665.0,1174.0,Super Speed,4259.0,Water Fury,11000.0,0.78
+The Joker,Villain,Steel,14556.0,67.0,192.0,107.0,Black,0.0,White,947.0,DC Comics,Regular,Arcanist,743.0,Human,169.0,715.0,Time Manipulation,8281.0,Fire Fist,11000.0,0.53
+Dark Plaguebringer,Villain,Draconish,8729.0,92.0,188.0,51.0,White,1.0,White,1997.0,DC,Athletic,Scientist,761.0,Kryptonian,3183.0,732.0,Time Manipulation,5494.0,Eternal Firewave,10101.0,0.66
+Kraven the Hunter,Villain,Normal,17640.0,93.0,180.0,74.0,Brown,2.0,Brown,1367.0,DC,Muscular,Brewer,894.0,Saiyan,3297.0,844.0,Super Strength,8536.0,Fire Fist,10000.0,0.53
+Toguro,VillaIn,Wooden,4560.0,98.0,203.0,115.0,Pink,2.0,Gold,887.0,DC,Muscular,Assassin,1250.0,Saiyan,2335.0,1137.0,Super Speed,2711.0,Eternal Firewave,11010.0,0.64
+Tweedledee & Tweedledum,Villain,Draconish,11446.0,564.0,755.0,58.0,White,0.0,Bald,1749.0,DC,Giant,Brewer,538.0,Giant,1638.0,538.0,Mind Reading,7903.0,Fire Fist,10101.0,0.62
+Makunouchi Ippo,Villain,Wooden,1631.0,63.0,197.0,76.0,Pink,2.0,White,1355.0,DC,Athletic,Demon Lord,732.0,Human,2200.0,704.0,Super Speed,1054.0,Water Fury,11010.0,0.82
+The Joker,Villain,Steel,14556.0,67.0,192.0,107.0,Black,0.0,White,947.0,DC Comics,Regular,Arcanist,743.0,Human,169.0,715.0,Time Manipulation,8281.0,Fire Fist,11000.0,0.53
+Dread Lich,VIllain,Draconish,8839.0,119.0,169.0,52.0,White,2.0,Bald,2107.0,Anime,Muscular,Saviors,582.0,Kryptonian,2800.0,582.0,Mind Reading,5599.0,Water Gun,10101.0,0.88
+Hacked Neuro-Lancer,VillaIn,Wooden,1879.0,94.0,211.0,117.0,Pink,1.0,Purple,886.0,Anime,Giant,Scientist,1225.0,Alien,1047.0,1114.0,Time Manipulation,1159.0,Water Gun,11010.0,0.76
+Hacked AI Tyrant,VillaIn,Metallic,7330.0,653.0,858.0,67.0,Green,0.0,Green,1495.0,Anime,Regular,God,597.0,Giant,4286.0,597.0,Super Strength,5481.0,Grass blade,10011.0,0.48
+Electro,Villain,Steel,10867.0,645.0,711.0,36.0,Black,0.0,Brown,2990.0,Anime,Giant,Saviors,874.0,Giant,370.0,825.0,Flying,6671.0,Grass blade,11000.0,0.72
+Leland Owlsley,VIllain,Scaly,8168.0,115.0,192.0,90.0,Blue,2.0,Silver,1111.0,Anime,Muscular,Arcanist,976.0,Kryptonian,4206.0,904.0,Super Strength,5264.0,Electric Surge,10001.0,0.53
+Krona,Villain,Steel,2361.0,125.0,198.0,32.0,Black,1.0,Pink,3172.0,Anime,Giant,God,1019.0,Kryptonian,882.0,944.0,Time Manipulation,1231.0,Eternal Firewave,11000.0,0.61
+Doctor Psycho,Villain,Transparent,4316.0,58.0,176.0,77.0,Yellow,1.0,Black,1325.0,Anime,Fat,Saviors,974.0,Human,3807.0,902.0,Mind Reading,2908.0,Water Gun,10111.0,0.64
+Orca,VIllain,Stone,10183.0,589.0,800.0,122.0,Red,1.0,Brown,826.0,Anime,Regular,Scientist,882.0,Giant,2076.0,833.0,Super Speed,6755.0,Fireburst Cannon,10010.0,0.5
+The Anti-Monitor,Villain,Luminescent,5636.0,73.0,182.0,36.0,Glowing,2.0,Bald,2793.0,Anime,Athletic,Assassin,555.0,Alien,4797.0,555.0,Super Speed,3515.0,Grass Tempest,11111.0,0.66
+Neferpitou,Villain,Metallic,8284.0,617.0,846.0,136.0,Green,2.0,Gold,836.0,Anime,Giant,Drunken,1212.0,Giant,134.0,1102.0,Mind Reading,5008.0,Grass Tempest,10011.0,0.53
+Glitched Netherbyte,Villain,Draconish,12587.0,486.0,711.0,45.0,White,0.0,Silver,2239.0,Anime,Giant,Warrior,1010.0,Giant,934.0,936.0,Flying,6222.0,Electric Nova,10101.0,0.8
+Zamasu,Villain,Transparent,7564.0,105.0,168.0,84.0,Yellow,0.0,Green,1192.0,Anime,Muscular,Cult Leader,629.0,Saiyan,3410.0,617.0,Super Strength,4613.0,Fire Fist,10111.0,0.38
+Sinister Doombringer,VillaIn,Transparent,12699.0,50.0,159.0,112.0,Yellow,0.0,Brown,915.0,Anime,Slim,Captain,906.0,Undead,2439.0,855.0,Flying,6777.0,Grass Surge,10111.0,0.5
+Absorbing Man,Villain,Scaly,2764.0,97.0,195.0,34.0,Blue,2.0,Silver,2997.0,Anime,Muscular,Leader,974.0,Alien,2797.0,902.0,Flying,1341.0,Fire Fist,10001.0,0.5
+Foolkiller,VillaIn,Normal,6152.0,82.0,201.0,41.0,Brown,2.0,Black,2479.0,Anime,Muscular,Warrior,947.0,Saiyan,4949.0,894.0,Super Speed,2803.0,Electric Nova,10000.0,0.6
+Angel Devil,VillaIn,Stone,9320.0,85.0,155.0,123.0,Red,0.0,Purple,836.0,Anime,Normal,Arcanist,1184.0,Alien,872.0,1077.0,Teleportation,6558.0,Grass Surge,10010.0,0.55
+Vile Voidcaller,Villain,Stone,14554.0,106.0,182.0,98.0,Red,0.0,Green,1057.0,Anime,Giant,Hero,614.0,Kryptonian,4378.0,602.0,Flying,6839.0,Water Fury,10010.0,0.68
+Zamasu,Villain,Transparent,7564.0,105.0,168.0,84.0,Yellow,0.0,Green,1192.0,Anime,Muscular,Cult Leader,629.0,Saiyan,3410.0,617.0,Super Strength,4613.0,Fire Fist,10111.0,0.38
+Dormammu,Villain,Hairy,7906.0,105.0,154.0,135.0,Blood,1.0,Bald,768.0,Anime,Giant,Mage,567.0,Saiyan,114.0,567.0,Teleportation,6833.0,Electric Nova,10010.0,0.64
+Foolkiller,VillaIn,Normal,6152.0,82.0,201.0,41.0,Brown,2.0,Black,2479.0,Anime,Muscular,Warrior,947.0,Saiyan,4949.0,894.0,Super Speed,2803.0,Electric Nova,10000.0,0.6
+Encrypted Overlord,VillaIn,Luminescent,8742.0,113.0,236.0,80.0,Glowing,1.0,Blonde,1291.0,Anime,Athletic,Captain,84.0,Alien,4413.0,94.0,Super Speed,6166.0,Grass blade,11111.0,0.48
+The Batman Who Laughs,Villain,Transparent,10234.0,50.0,159.0,67.0,Yellow,1.0,Green,1514.0,Anime,Muscular,Saviors,590.0,Saiyan,1564.0,590.0,Teleportation,6967.0,Water Fury,10111.0,0.7
+Malevolent Lich,Villain,Metallic,2431.0,61.0,192.0,77.0,Green,2.0,Pink,1329.0,Fantasy Realm,Regular,Cult Leader,1029.0,Undead,3457.0,953.0,Super Strength,1067.0,Grass Surge,10011.0,0.51
+Doctor T.O. Morrow,VillaIn,Luminescent,8815.0,107.0,178.0,48.0,Glowing,0.0,Brown,2173.0,Fantasy Realm,Muscular,Hero,907.0,Saiyan,1361.0,856.0,Super Strength,4607.0,Eternal Firewave,11111.0,0.57
+Malware Neuro-Lancer,Villain,Wooden,4736.0,87.0,245.0,111.0,Pink,2.0,Gold,912.0,Fantasy Realm,Normal,Scientist,1240.0,Alien,3974.0,1128.0,Super Speed,4538.0,Water Gun,11010.0,0.83
+Magellan,Villain,Stone,11266.0,137.0,206.0,40.0,Red,1.0,Bald,2503.0,Fantasy Realm,Giant,Leader,624.0,Kryptonian,3683.0,612.0,Super Speed,6371.0,Fire Fist,10010.0,0.64
+Cursed Sorcerer,VIllain,Hairy,10203.0,102.0,234.0,109.0,Blood,1.0,Purple,1054.0,Fantasy Realm,Giant,Cult Leader,1223.0,Alien,1988.0,1112.0,Teleportation,5791.0,Electric Storm,10010.0,0.72
+Towa,Villain,Stone,16376.0,87.0,205.0,81.0,Red,1.0,White,1264.0,Fantasy Realm,Athletic,Arcanist,738.0,Kryptonian,2416.0,710.0,Teleportation,8458.0,Water Vortex,10010.0,0.77
+Scarecrow,Villain,Steel,1335.0,90.0,208.0,73.0,Black,0.0,Pink,1378.0,Fantasy Realm,Athletic,Arcanist,1028.0,Saiyan,2735.0,952.0,Mind Reading,686.0,Eternal Firewave,11000.0,0.47
+The Thinker,Villain,Transparent,7849.0,57.0,179.0,123.0,Yellow,0.0,Pink,845.0,Fantasy Realm,Fat,Cult Leader,1029.0,Undead,3538.0,953.0,Time Manipulation,4647.0,Water Vortex,10111.0,0.59
+Mad Pierrot,Villain,Stone,9702.0,75.0,174.0,76.0,Red,2.0,White,1401.0,Fantasy Realm,Slim,Scientist,708.0,Human,4061.0,695.0,Time Manipulation,6642.0,Electric Surge,10010.0,0.68
+Lust,VIllain,Luminescent,9515.0,519.0,856.0,63.0,Glowing,1.0,Blonde,1678.0,Fantasy Realm,Giant,Captain,85.0,Giant,2383.0,95.0,Super Strength,5319.0,Grass Surge,11111.0,0.55
+Juggernaut,Villain,Steel,5411.0,139.0,195.0,99.0,Black,2.0,Pink,1049.0,Fantasy Realm,Athletic,Leader,1034.0,Alien,304.0,958.0,Mind Reading,2739.0,Grass Tempest,11000.0,0.61
+Vandal Savage,Villain,Scaly,7708.0,80.0,174.0,134.0,Blue,1.0,Black,746.0,Fantasy Realm,Giant,Saviors,983.0,Kryptonian,3983.0,911.0,Super Strength,4784.0,Grass Surge,10001.0,0.44
+Hydro-Man,VIllain,Normal,12057.0,110.0,188.0,42.0,Brown,1.0,Black,2641.0,Fantasy Realm,Muscular,Hero,939.0,Kryptonian,958.0,886.0,Time Manipulation,8226.0,Fire Fist,10000.0,0.52
+Encrypted Glitch,Villain,Normal,8626.0,110.0,219.0,138.0,Brown,2.0,Silver,735.0,Fantasy Realm,Normal,Brewer,1026.0,Alien,4054.0,950.0,Super Speed,4542.0,Eternal Firewave,10000.0,0.39
+Zebra,VIllain,Stone,2243.0,76.0,157.0,47.0,Red,0.0,Black,2214.0,Fantasy Realm,Regular,Hero,979.0,Undead,1322.0,907.0,Mind Reading,1558.0,Grass Tempest,10010.0,0.61
+Doctor Light,VIllain,Normal,6557.0,50.0,196.0,20.0,Brown,1.0,Pink,5116.0,Fantasy Realm,Muscular,Warrior,1038.0,Saiyan,2360.0,962.0,Time Manipulation,4690.0,Grass Tempest,10000.0,0.55
+Eneru,Villain,Draconish,9212.0,79.0,196.0,24.0,White,1.0,Fire-like,4304.0,Fantasy Realm,Athletic,Warrior,1316.0,Saiyan,1800.0,1197.0,Time Manipulation,5409.0,Grass blade,10101.0,0.81
+Solomon Grundy,Villain,Wooden,13279.0,515.0,746.0,129.0,Pink,2.0,Blonde,784.0,Fantasy Realm,Regular,God,69.0,Giant,1075.0,77.0,Mind Reading,6017.0,Water Vortex,11010.0,0.81
+Sosuke Aizen,Villain,Hairy,13144.0,61.0,183.0,21.0,Blood,2.0,Black,4827.0,Fantasy Realm,Regular,Demon Lord,979.0,Undead,3415.0,907.0,Flying,9761.0,Electric Storm,10010.0,0.91
+Black Dwarf,VIllain,Draconish,15546.0,79.0,177.0,94.0,White,2.0,Purple,1195.0,Fantasy Realm,Slim,Assassin,1214.0,Human,3870.0,1104.0,Time Manipulation,8897.0,Electric Nova,10101.0,0.78
+Bartholomew Kuma,VillaIn,Scaly,15862.0,50.0,227.0,57.0,Blue,0.0,White,1771.0,Fantasy Realm,Giant,Leader,747.0,Alien,1698.0,719.0,Super Strength,9638.0,Electric Nova,10001.0,0.6
+Lobo,Villain,Steel,14427.0,76.0,143.0,46.0,Black,2.0,Green,2229.0,Fantasy Realm,Muscular,Cult Leader,589.0,Saiyan,2314.0,589.0,Mind Reading,7756.0,Fire Fist,11000.0,0.74
+Buggy the Clown,VillaIn,Metallic,10620.0,75.0,190.0,39.0,Green,1.0,Blonde,2573.0,Fantasy Realm,Slim,Scientist,106.0,Human,707.0,116.0,Super Strength,6948.0,Grass Tempest,10011.0,0.56
+Corrupt Virus,VIllain,Transparent,6730.0,700.0,865.0,50.0,Yellow,1.0,Purple,2020.0,Fantasy Realm,Giant,Hero,1232.0,Giant,1058.0,1120.0,Flying,3602.0,Fireburst Cannon,10111.0,0.55
+Malevolent Dark Mage,Villain,Luminescent,2038.0,106.0,169.0,102.0,Glowing,2.0,Purple,986.0,Fantasy Realm,Giant,Thief,1221.0,Alien,1300.0,1110.0,Flying,1349.0,Electric Storm,11111.0,0.55
+Psycho-Pirate,VillaIn,Scaly,4733.0,66.0,158.0,44.0,Blue,1.0,Purple,2292.0,Fantasy Realm,Regular,Arcanist,1201.0,Human,1432.0,1092.0,Teleportation,3696.0,Electric Surge,10001.0,12.0
+Savage Necromancer,Villain,Luminescent,9083.0,125.0,167.0,78.0,Glowing,1.0,Black,1334.0,Cyberverse,Athletic,Scientist,991.0,Kryptonian,909.0,918.0,Time Manipulation,4916.0,Electric Nova,11111.0,0.62
+Glitched Dataphage,Villain,Scaly,8909.0,677.0,821.0,108.0,Blue,0.0,Green,956.0,Cyberverse,Regular,Mage,620.0,Giant,868.0,608.0,Time Manipulation,6800.0,Electric Nova,10001.0,0.4
+Terrax,VIllain,Steel,2410.0,68.0,182.0,123.0,Black,1.0,Blonde,886.0,Cyberverse,Normal,Demon Lord,116.0,Human,864.0,127.0,Super Strength,1877.0,Grass blade,11000.0,0.45
+Mastermind,Villain,Metallic,1002.0,55.0,175.0,31.0,Green,1.0,Pink,3232.0,Cyberverse,Slim,Scientist,1004.0,Undead,2394.0,930.0,Super Strength,665.0,Grass blade,10011.0,0.55
+Malware AI Tyrant,VillaIn,Transparent,1837.0,465.0,759.0,39.0,Yellow,1.0,Purple,2582.0,Cyberverse,Regular,Demon Lord,1189.0,Giant,4083.0,1081.0,Time Manipulation,1079.0,Grass blade,10111.0,0.6
+Sinister Warlock,Villain,Transparent,8981.0,86.0,195.0,55.0,Yellow,0.0,Green,1871.0,Cyberverse,Muscular,Arcanist,595.0,Alien,1654.0,595.0,Super Speed,4508.0,Fireburst Cannon,10111.0,0.48
+Yomi,Villain,Transparent,12861.0,76.0,164.0,62.0,Yellow,2.0,Green,1616.0,Cyberverse,Normal,Assassin,616.0,Human,2010.0,604.0,Flying,7233.0,Eternal Firewave,10111.0,0.57
+Lucci,Villain,Hairy,4472.0,54.0,153.0,59.0,Blood,2.0,Brown,1726.0,Cyberverse,Athletic,Assassin,921.0,Human,2350.0,869.0,Mind Reading,3273.0,Electric Nova,10010.0,0.79
+Cheetah,VillaIn,Draconish,12033.0,85.0,204.0,103.0,White,2.0,Blonde,1030.0,Cyberverse,Regular,Scientist,88.0,Undead,1403.0,98.0,Flying,6256.0,Grass blade,10101.0,0.62
+Boros,VIllain,Metallic,12627.0,586.0,776.0,64.0,Green,0.0,Silver,1573.0,Cyberverse,Giant,Scientist,933.0,Giant,3400.0,881.0,Super Strength,9599.0,Water Vortex,10011.0,0.68
+Sinister Necromancer,Villain,Draconish,7472.0,688.0,897.0,76.0,White,2.0,Bald,1437.0,Cyberverse,Regular,Drunken,540.0,Giant,3455.0,540.0,Super Strength,4798.0,Grass Tempest,10101.0,0.67
+Silvermane,VIllain,Wooden,3842.0,562.0,794.0,114.0,Pink,0.0,Blonde,936.0,Cyberverse,Giant,Warrior,105.0,Giant,1131.0,115.0,Teleportation,2986.0,Water Gun,11010.0,0.64
+Cursed Dreadlord,VillaIn,Normal,4829.0,105.0,194.0,129.0,Brown,1.0,Brown,794.0,Cyberverse,Athletic,Assassin,881.0,Kryptonian,3387.0,832.0,Teleportation,2855.0,Water Fury,10000.0,0.49
+Fin Fang Foom,Villain,Scaly,7741.0,686.0,804.0,39.0,Blue,2.0,Pink,2590.0,Cyberverse,Regular,Warrior,1042.0,Giant,3354.0,965.0,Time Manipulation,3412.0,Grass Surge,10001.0,0.63
+Sandman,Villain,Wooden,9271.0,552.0,868.0,113.0,Pink,2.0,Bald,888.0,Cyberverse,Regular,Arcanist,546.0,Giant,4239.0,546.0,Mind Reading,4833.0,Eternal Firewave,11010.0,0.63
+Annihilus,Villain,Steel,1903.0,429.0,900.0,30.0,Black,0.0,Silver,3334.0,Cyberverse,Giant,Scientist,984.0,Giant,571.0,912.0,Super Speed,1353.0,Grass Surge,11000.0,0.64
+Nimrod,VillaIn,Stone,8176.0,131.0,208.0,117.0,Red,2.0,Pink,917.0,Cyberverse,Muscular,Captain,1046.0,Alien,695.0,969.0,Teleportation,4987.0,Water Gun,10010.0,0.73
+Gilgamesh,VillaIn,Stone,8719.0,641.0,832.0,127.0,Red,1.0,Pink,794.0,Cyberverse,Regular,Cult Leader,1022.0,Giant,2579.0,947.0,Flying,4311.0,Eternal Firewave,10010.0,0.5
+Zeldris,VillaIn,Steel,2677.0,86.0,202.0,39.0,Black,2.0,Gold,2580.0,Cyberverse,Muscular,Demon Lord,1249.0,Saiyan,3556.0,1136.0,Flying,1209.0,Water Fury,11000.0,0.87
+Rider,Villain,Hairy,5746.0,76.0,178.0,34.0,Blood,1.0,White,2960.0,Cyberverse,Regular,Scientist,684.0,Undead,1237.0,671.0,Time Manipulation,4416.0,Water Fury,10010.0,0.87
+Baron Zemo,Villain,Scaly,11541.0,77.0,188.0,59.0,Blue,2.0,Green,1714.0,Cyberverse,Muscular,Thief,620.0,Saiyan,3294.0,608.0,Super Speed,7001.0,Electric Nova,10001.0,0.63
+Corrupt Null-Code,Villain,Scaly,17416.0,59.0,142.0,112.0,Blue,0.0,Black,917.0,Cyberverse,Slim,Assassin,945.0,Undead,2820.0,892.0,Teleportation,9321.0,Water Gun,10001.0,0.62
+Zodiac,Villain,Wooden,5225.0,586.0,762.0,113.0,Pink,2.0,Gold,913.0,Cyberverse,Giant,Demon Lord,1263.0,Giant,65.0,1149.0,Super Speed,3264.0,Fire Fist,11010.0,0.65
